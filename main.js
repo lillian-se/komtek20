@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 }
     const start = async() => {
-      await delay(7)
+      await delay(10)
     const mindarThree = new window.MINDAR.IMAGE.MindARThree({
       container: document.body,
    
